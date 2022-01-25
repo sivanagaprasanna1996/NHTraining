@@ -1,0 +1,8 @@
+E:\html\day1project2\day1project2\day1project2\bin\Debug\day1project2.exe.config
+E:\html\day1project2\day1project2\day1project2\bin\Debug\day1project2.exe
+E:\html\day1project2\day1project2\day1project2\bin\Debug\day1project2.pdb
+E:\html\day1project2\day1project2\day1project2\obj\Debug\day1project2.csproj.AssemblyReference.cache
+E:\html\day1project2\day1project2\day1project2\obj\Debug\day1project2.csproj.SuggestedBindingRedirects.cache
+E:\html\day1project2\day1project2\day1project2\obj\Debug\day1project2.csproj.CoreCompileInputs.cache
+E:\html\day1project2\day1project2\day1project2\obj\Debug\day1project2.exe
+E:\html\day1project2\day1project2\day1project2\obj\Debug\day1project2.pdb
