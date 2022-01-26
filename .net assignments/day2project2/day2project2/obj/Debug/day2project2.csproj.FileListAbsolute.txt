@@ -1,0 +1,8 @@
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\obj\Debug\day2project2.csproj.AssemblyReference.cache
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\obj\Debug\day2project2.csproj.SuggestedBindingRedirects.cache
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\obj\Debug\day2project2.csproj.CoreCompileInputs.cache
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\bin\Debug\day2project2.exe.config
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\bin\Debug\day2project2.exe
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\bin\Debug\day2project2.pdb
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\obj\Debug\day2project2.exe
+E:\j siva day1 assignment\.net assignments\day2project2\day2project2\obj\Debug\day2project2.pdb
