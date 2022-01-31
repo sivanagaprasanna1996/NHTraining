@@ -1,0 +1,8 @@
+E:\assignments\day6assignments\day6listint\day6listint\bin\Debug\day6listint.exe.config
+E:\assignments\day6assignments\day6listint\day6listint\bin\Debug\day6listint.exe
+E:\assignments\day6assignments\day6listint\day6listint\bin\Debug\day6listint.pdb
+E:\assignments\day6assignments\day6listint\day6listint\obj\Debug\day6listint.csproj.AssemblyReference.cache
+E:\assignments\day6assignments\day6listint\day6listint\obj\Debug\day6listint.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day6assignments\day6listint\day6listint\obj\Debug\day6listint.csproj.CoreCompileInputs.cache
+E:\assignments\day6assignments\day6listint\day6listint\obj\Debug\day6listint.exe
+E:\assignments\day6assignments\day6listint\day6listint\obj\Debug\day6listint.pdb
