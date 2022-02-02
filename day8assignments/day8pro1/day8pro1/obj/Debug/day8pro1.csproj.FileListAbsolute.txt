@@ -1,0 +1,16 @@
+E:\assignments\day7assignments\day8pro1\day8pro1\bin\Debug\day8pro1.exe.config
+E:\assignments\day7assignments\day8pro1\day8pro1\bin\Debug\day8pro1.exe
+E:\assignments\day7assignments\day8pro1\day8pro1\bin\Debug\day8pro1.pdb
+E:\assignments\day7assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.AssemblyReference.cache
+E:\assignments\day7assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day7assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.CoreCompileInputs.cache
+E:\assignments\day7assignments\day8pro1\day8pro1\obj\Debug\day8pro1.exe
+E:\assignments\day7assignments\day8pro1\day8pro1\obj\Debug\day8pro1.pdb
+E:\assignments\day8assignments\day8pro1\day8pro1\bin\Debug\day8pro1.exe.config
+E:\assignments\day8assignments\day8pro1\day8pro1\bin\Debug\day8pro1.exe
+E:\assignments\day8assignments\day8pro1\day8pro1\bin\Debug\day8pro1.pdb
+E:\assignments\day8assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.AssemblyReference.cache
+E:\assignments\day8assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day8assignments\day8pro1\day8pro1\obj\Debug\day8pro1.csproj.CoreCompileInputs.cache
+E:\assignments\day8assignments\day8pro1\day8pro1\obj\Debug\day8pro1.exe
+E:\assignments\day8assignments\day8pro1\day8pro1\obj\Debug\day8pro1.pdb
