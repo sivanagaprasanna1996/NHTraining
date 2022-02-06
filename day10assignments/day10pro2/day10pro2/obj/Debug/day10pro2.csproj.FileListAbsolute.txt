@@ -1,0 +1,7 @@
+E:\assignments\day10assignments\day10pro2\day10pro2\bin\Debug\day10pro2.exe.config
+E:\assignments\day10assignments\day10pro2\day10pro2\bin\Debug\day10pro2.exe
+E:\assignments\day10assignments\day10pro2\day10pro2\bin\Debug\day10pro2.pdb
+E:\assignments\day10assignments\day10pro2\day10pro2\obj\Debug\day10pro2.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day10assignments\day10pro2\day10pro2\obj\Debug\day10pro2.csproj.CoreCompileInputs.cache
+E:\assignments\day10assignments\day10pro2\day10pro2\obj\Debug\day10pro2.exe
+E:\assignments\day10assignments\day10pro2\day10pro2\obj\Debug\day10pro2.pdb
