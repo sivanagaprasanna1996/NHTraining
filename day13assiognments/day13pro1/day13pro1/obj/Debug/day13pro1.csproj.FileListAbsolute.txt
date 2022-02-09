@@ -1,0 +1,8 @@
+E:\assignments\day13assiognments\day13pro1\day13pro1\bin\Debug\day13pro1.exe.config
+E:\assignments\day13assiognments\day13pro1\day13pro1\bin\Debug\day13pro1.exe
+E:\assignments\day13assiognments\day13pro1\day13pro1\bin\Debug\day13pro1.pdb
+E:\assignments\day13assiognments\day13pro1\day13pro1\obj\Debug\day13pro1.csproj.AssemblyReference.cache
+E:\assignments\day13assiognments\day13pro1\day13pro1\obj\Debug\day13pro1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day13assiognments\day13pro1\day13pro1\obj\Debug\day13pro1.csproj.CoreCompileInputs.cache
+E:\assignments\day13assiognments\day13pro1\day13pro1\obj\Debug\day13pro1.exe
+E:\assignments\day13assiognments\day13pro1\day13pro1\obj\Debug\day13pro1.pdb
