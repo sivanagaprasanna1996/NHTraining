@@ -1,0 +1,8 @@
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\bin\Debug\day15p[ro15.exe.config
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\bin\Debug\day15p[ro15.exe
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\bin\Debug\day15p[ro15.pdb
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\obj\Debug\day15p[ro15.csproj.AssemblyReference.cache
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\obj\Debug\day15p[ro15.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\obj\Debug\day15p[ro15.csproj.CoreCompileInputs.cache
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\obj\Debug\day15p[ro15.exe
+E:\assignments\day15assignments\day15p[ro15\day15p[ro15\obj\Debug\day15p[ro15.pdb

@@ -1,0 +1,8 @@
+E:\assignments\day15assignments\day15pro4\day15pro4\bin\Debug\day15pro4.exe.config
+E:\assignments\day15assignments\day15pro4\day15pro4\bin\Debug\day15pro4.exe
+E:\assignments\day15assignments\day15pro4\day15pro4\bin\Debug\day15pro4.pdb
+E:\assignments\day15assignments\day15pro4\day15pro4\obj\Debug\day15pro4.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day15assignments\day15pro4\day15pro4\obj\Debug\day15pro4.csproj.CoreCompileInputs.cache
+E:\assignments\day15assignments\day15pro4\day15pro4\obj\Debug\day15pro4.exe
+E:\assignments\day15assignments\day15pro4\day15pro4\obj\Debug\day15pro4.pdb
+E:\assignments\day15assignments\day15pro4\day15pro4\obj\Debug\day15pro4.csproj.AssemblyReference.cache

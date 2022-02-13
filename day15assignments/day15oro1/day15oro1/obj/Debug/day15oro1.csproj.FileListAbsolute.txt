@@ -1,0 +1,8 @@
+E:\assignments\file programs\day15oro1\day15oro1\obj\Debug\day15oro1.csproj.AssemblyReference.cache
+E:\assignments\file programs\day15oro1\day15oro1\obj\Debug\day15oro1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\file programs\day15oro1\day15oro1\obj\Debug\day15oro1.csproj.CoreCompileInputs.cache
+E:\assignments\file programs\day15oro1\day15oro1\bin\Debug\day15oro1.exe.config
+E:\assignments\file programs\day15oro1\day15oro1\bin\Debug\day15oro1.exe
+E:\assignments\file programs\day15oro1\day15oro1\bin\Debug\day15oro1.pdb
+E:\assignments\file programs\day15oro1\day15oro1\obj\Debug\day15oro1.exe
+E:\assignments\file programs\day15oro1\day15oro1\obj\Debug\day15oro1.pdb

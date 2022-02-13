@@ -1,0 +1,7 @@
+E:\assignments\day15assignments\day15pro13\day15pro13\bin\Debug\day15pro13.exe.config
+E:\assignments\day15assignments\day15pro13\day15pro13\bin\Debug\day15pro13.exe
+E:\assignments\day15assignments\day15pro13\day15pro13\bin\Debug\day15pro13.pdb
+E:\assignments\day15assignments\day15pro13\day15pro13\obj\Debug\day15pro13.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day15assignments\day15pro13\day15pro13\obj\Debug\day15pro13.csproj.CoreCompileInputs.cache
+E:\assignments\day15assignments\day15pro13\day15pro13\obj\Debug\day15pro13.exe
+E:\assignments\day15assignments\day15pro13\day15pro13\obj\Debug\day15pro13.pdb
