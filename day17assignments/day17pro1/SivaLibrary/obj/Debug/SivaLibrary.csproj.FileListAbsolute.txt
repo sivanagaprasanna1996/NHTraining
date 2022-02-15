@@ -1,0 +1,5 @@
+E:\assignments\day17assignments\day17pro1\SivaLibrary\obj\Debug\SivaLibrary.csproj.CoreCompileInputs.cache
+E:\assignments\day17assignments\day17pro1\SivaLibrary\bin\Debug\SivaLibrary.dll
+E:\assignments\day17assignments\day17pro1\SivaLibrary\bin\Debug\SivaLibrary.pdb
+E:\assignments\day17assignments\day17pro1\SivaLibrary\obj\Debug\SivaLibrary.dll
+E:\assignments\day17assignments\day17pro1\SivaLibrary\obj\Debug\SivaLibrary.pdb

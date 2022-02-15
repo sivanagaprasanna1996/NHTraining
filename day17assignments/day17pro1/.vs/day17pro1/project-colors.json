@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "768498ac-e00d-4309-8a53-3b920f1cb66c": {
+      "ProjectGuid": "768498ac-e00d-4309-8a53-3b920f1cb66c",
+      "DisplayName": "day17pro1",
+      "ColorIndex": 0
+    },
+    "14e9fd59-7043-4e5c-be03-c1ce86d1f3f1": {
+      "ProjectGuid": "14e9fd59-7043-4e5c-be03-c1ce86d1f3f1",
+      "DisplayName": "SivaLibrary",
+      "ColorIndex": 1
+    },
+    "412f01cf-87ee-4aad-bccf-0bfec840b360": {
+      "ProjectGuid": "412f01cf-87ee-4aad-bccf-0bfec840b360",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
