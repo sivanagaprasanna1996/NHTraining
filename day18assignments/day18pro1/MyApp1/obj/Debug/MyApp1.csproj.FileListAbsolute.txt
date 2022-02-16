@@ -1,0 +1,10 @@
+E:\assignments\day18assignments\day18pro1\MyApp1\bin\Debug\MyApp1.exe.config
+E:\assignments\day18assignments\day18pro1\MyApp1\bin\Debug\MyApp1.exe
+E:\assignments\day18assignments\day18pro1\MyApp1\bin\Debug\MyApp1.pdb
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.Properties.Resources.resources
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.csproj.GenerateResource.cache
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.exe
+E:\assignments\day18assignments\day18pro1\MyApp1\obj\Debug\MyApp1.pdb

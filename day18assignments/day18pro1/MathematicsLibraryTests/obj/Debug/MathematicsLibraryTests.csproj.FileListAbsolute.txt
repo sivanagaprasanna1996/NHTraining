@@ -1,0 +1,17 @@
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\MathematicsLibraryTests.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\MathematicsLibraryTests.pdb
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\MathematicsLibrary.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\MathematicsLibrary.pdb
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.AssemblyReference.cache
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.CoreCompileInputs.cache
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.CopyComplete
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.dll
+E:\assignments\day18assignments\day18pro1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.pdb

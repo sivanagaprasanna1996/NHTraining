@@ -1,0 +1,11 @@
+E:\assignments\day18assignments\day18pro1\day18pro1\bin\Debug\day18pro1.exe.config
+E:\assignments\day18assignments\day18pro1\day18pro1\bin\Debug\day18pro1.exe
+E:\assignments\day18assignments\day18pro1\day18pro1\bin\Debug\day18pro1.pdb
+E:\assignments\day18assignments\day18pro1\day18pro1\bin\Debug\MathematicsLibrary.dll
+E:\assignments\day18assignments\day18pro1\day18pro1\bin\Debug\MathematicsLibrary.pdb
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.csproj.AssemblyReference.cache
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.csproj.CoreCompileInputs.cache
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.csproj.CopyComplete
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.exe
+E:\assignments\day18assignments\day18pro1\day18pro1\obj\Debug\day18pro1.pdb
