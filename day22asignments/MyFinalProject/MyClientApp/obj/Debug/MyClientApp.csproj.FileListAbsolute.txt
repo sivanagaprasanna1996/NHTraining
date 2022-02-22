@@ -1,0 +1,13 @@
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\DataAccessLayer.dll
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\bin\Debug\DataAccessLayer.pdb
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+E:\assignments\day22asignments\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb

@@ -1,0 +1,6 @@
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\assignments\day22asignments\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

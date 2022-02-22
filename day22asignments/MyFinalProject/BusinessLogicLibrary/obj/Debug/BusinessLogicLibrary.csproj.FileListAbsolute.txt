@@ -1,0 +1,9 @@
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLayer.dll
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLayer.pdb
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+E:\assignments\day22asignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb
