@@ -1,0 +1,8 @@
+E:\assignments\day21assignments\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe.config
+E:\assignments\day21assignments\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe
+E:\assignments\day21assignments\MyClientApp\MyClientApp\bin\Debug\MyClientApp.pdb
+E:\assignments\day21assignments\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+E:\assignments\day21assignments\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+E:\assignments\day21assignments\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+E:\assignments\day21assignments\MyClientApp\MyClientApp\obj\Debug\MyClientApp.exe
+E:\assignments\day21assignments\MyClientApp\MyClientApp\obj\Debug\MyClientApp.pdb
